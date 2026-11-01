@@ -1,4 +1,4 @@
-package com.example.Pr25_KhrupovDenis;
+package com.example.Pr24_KhrupovDenis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
